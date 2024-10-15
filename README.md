@@ -74,3 +74,4 @@ Note: Health Factor should be updated dynamically based on key triggers:
 - **Deposits/Withdrawals:** Recalculate when users deposit or withdraw collateral.
 - **Borrow/Repay:** Recalculate when users borrow new funds or repay existing debts.
 - **Price Updates:** Recalculate when the price feed updates the value of any assets involved.
+
